@@ -7,7 +7,6 @@
 
 
 # https://help.apple.com/itc/podcasts_connect/#/itcb54353390
-# https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS
 
 
 $Dir = $PSScriptRoot
